@@ -9,7 +9,7 @@ Herein is presented the Kangxi Dictionary (康熙字典), a work from the era of
 * Latest version description (最新版本解釋): https://github.com/7468696e6b/kangxiDictText/blob/master/README.md#v3f
 * Download latest version (下載最新版本): https://github.com/7468696e6b/kangxiDictText/blob/master/kangxizidian-v3f.txt
 
-### 《康熙字典》序：
+###  御製康熙字典序
 
 > 《易傳》曰：上古結繩而治，後世聖人易之以書契，百官以治，萬民以察。周官外史掌達書名於四方，保氏養國子教以六書，而考文列於三重，盖以其為萬事百物之統紀而𠯁以助流政教也。
 > 
@@ -22,6 +22,8 @@ Herein is presented the Kangxi Dictionary (康熙字典), a work from the era of
 > 　　康熙五十五年閏三月十九日
 > 
 > 　　日講官起居注翰林院侍講學士加五級臣陳邦彥奉勑敬書
+
+(http://kangxizidian.blogspot.com/2006/11/blog-post_16.html)
 <!--
 As written in the preface of the Kangxi dictionary (using some of James Legge's translation):
 > The *I Ching* states: "In the highest antiquity, government was carried on successfully by the use of knotted cords (to preserve the memory of things). In subsequent ages the sages substituted for these written characters and bonds. By means of these (the doings of) all the officers could be regulated, and (the affairs of) all the people accurately examined. The idea of this was taken, probably, from Guai (the forty-third hexagram). Therefore what we call the Yi is (a collection of) emblematic lines. They are styled emblematic as being resemblances. What we call the Tuan (or king Wen's explanations) are based on the significance (of each hexagram as a whole). We call the lines (of the figures) Yao from their being according to the movements taking place all under the sky. In this way (we see) the rise of good fortune and evil, and the manifestation of repentance and regret."
