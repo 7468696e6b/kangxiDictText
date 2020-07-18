@@ -59,6 +59,7 @@ Include custom PUA newline character () for Pleco - see https://www.plecoforu
 
 * v3d: has hyperlink tags intact
 * v3e: removed hyperlink tags, text only, keeps reference to KangXi page number
+* v3f: see below
 
 ~~Download link v.3e (下載第 3e 版本) : https://github.com/7468696e6b/kangxiDictText/blob/master/archive/kangxizidian-v3e.txt~~
 
