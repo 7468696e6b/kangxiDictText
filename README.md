@@ -31,6 +31,7 @@ As written in the preface of the Kangxi dictionary (using some of James Legge's 
 
 ### Font notice 字體建議
 推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 http://fonts.jp/hanazono/ 或 https://babelstone.co.uk/Fonts/Han.html 。這樣可識所有康熙字典字。
+
 It is recommended that you download a font that supports Unicode CJK extensions, such as Hanazono or Babelstone Han. This ensures that all of the characters in the *Kangxi dictionary* may be viewed.
 
 ## html
