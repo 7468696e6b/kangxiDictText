@@ -1,13 +1,31 @@
 # 康熙字典 Kangxi Dictionary TXT
 
 《康熙字典》，為清帝康熙年代之作。此 UTF-8 TXT 版本可利君學習漢字。看官可由Pleco軟件或其他研究及學習方面用此文件。
-《大學》曰：「大學之道，在明明德，在親民，在止於至善」。以學認道，以道治人間，認自心意，行德，為學業之程。
+<!-- 《大學》曰：「大學之道，在明明德，在親民，在止於至善」。以學認道，以道治人間，認自心意，行德，為學業之程。-->
 
 Herein is presented the Kangxi Dictionary (康熙字典), a work from the era of the Qing dynasty Kangxi emperor. It utilizes UTF-8 formatting in a TXT file. It is suitable to be used in Pleco or other software. 
-As is written in *The Great Learning* (大學): "The way of the great learning, is in the propagation of virtue, is in the amity of the common people, is in the bountifulness of the good". Let us be guided by learning to the way, to understand the common weal of humanity, starting from the recognition of one's own heartfelt intentions, such is the great craft of learning.
+<!-- As is written in *The Great Learning* (大學): "The way of the great learning, is in the propagation of virtue, is in the amity of the common people, is in the bountifulness of the good". Let us be guided by learning to the way, to understand the common weal of humanity, starting from the recognition of one's own heartfelt intentions, such is the great craft of learning.-->
 
 * Latest version description (最新版本解釋): https://github.com/7468696e6b/kangxiDictText/blob/master/README.md#v3f
 * Download latest version (下載最新版本): https://raw.githubusercontent.com/7468696e6b/kangxiDictText/master/kangxizidian-v3f.txt
+
+### 《康熙字典》序：
+
+> 《易傳》曰：上古結繩而治，後世聖人易之以書契，百官以治，萬民以察。周官外史掌達書名於四方，保氏養國子教以六書，而考文列於三重，盖以其為萬事百物之統紀而𠯁以助流政教也。
+> 
+> 　　古文篆隷随世逓變，至漢許氏始有《說文》，然重義而略於音，故世謂漢儒識文字而不識子母，江左之儒識四聲而不識七音。七音之傳肈自西域，以三十六字為母，從為四聲，横為七音，而後天下之聲緫於是焉。嘗考《管子》之書所載五方之民，其聲之清濁高下，各象其川原泉壤淺深廣狭而生，故于五音必有所偏得，則能全備七音者鮮矣。此厯代相傳取音者所以不能較若畫一也。
+> 
+> 　　自《說文》以後，字書善者，於梁則《玉篇》，於唐則《廣韻》，於宋則《集韻》，於金則《五音集韻》，於元則《韻會》，於明則《洪武正韻》，皆𣴑通當世，衣被後學；其傳而未甚顯者，尚數十百家。當其編輯皆自謂毫髮無憾，而後儒推論輙多同異，或所收之字繁省失中，或所引之書濫踈無準，或字有數義而不詳，或音有數切而不備，曽無善兼美具可奉為典常而不易者。
+> 
+> 　　朕每念經傳至博，音義繁𧷤，據一人之見，守一家之説，未必能會通罔缺也。爰命儒臣，悉取舊籍，次第排纂，切音、解義，一本《說文》、《玉萹》，𠔥用《廣韻》、《集韻》、《韻會》、《正韻》；其餘字書一音、一義之可採者，靡有遺逸。至諸書引證未備者，則自𦀰史百子以及漢晉唐宋元明以來詩人文士所述，莫不旁羅博證，使有依據。然後古今形體之辨，方言聲氣之殊，部分班列，開卷了然，無一義之不詳、一音之不備矣。凡五閱歳而其書始成，命曰：字典，於以昭同文之治，俾承學稽古者，得以備知文字之源流，而官府、吏民亦有所遵守焉。是為序。
+> 
+> 　　康熙五十五年閏三月十九日
+> 
+> 　　日講官起居注翰林院侍講學士加五級臣陳邦彥奉勑敬書
+<!--
+As written in the preface of the Kangxi dictionary (using some of James Legge's translation):
+> The *I Ching* states: "In the highest antiquity, government was carried on successfully by the use of knotted cords (to preserve the memory of things). In subsequent ages the sages substituted for these written characters and bonds. By means of these (the doings of) all the officers could be regulated, and (the affairs of) all the people accurately examined. The idea of this was taken, probably, from Guai (the forty-third hexagram). Therefore what we call the Yi is (a collection of) emblematic lines. They are styled emblematic as being resemblances. What we call the Tuan (or king Wen's explanations) are based on the significance (of each hexagram as a whole). We call the lines (of the figures) Yao from their being according to the movements taking place all under the sky. In this way (we see) the rise of good fortune and evil, and the manifestation of repentance and regret."
+> Ancient texts were written in seal script and clerical script, until the work of Xu \[Shen\] of Han \[dynasty\] in *Shouwen Jiezi*, emphasizing meaning but neglecting pronunciation, therefore, people knew the characters but not the consonants \[and vowels\]. The Confucians in Jiangzuo knew the four tones but did not know the seven sounds. The title of the voice of seven was from the Western Regions, with 36 characters as the mother, from four tones to seven tones, and then the voice of the world was edited. Once we investigated the voice of five people in Guanzi, Because of the depth and width of each image, there must be some deviation in the five tones, so there are too few people who can complete seven tones. This is the reason why the people who take notes from generation to generation can not be uniform.-->
 
 ## html
 Converted file with HTML/XML tags intact. Can try to import to keep formatting. Later versions of Pleco remove HTML support - see https://plecoforums.com/threads/a-dictionary-of-colors.5184/#post-45628.
