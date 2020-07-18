@@ -1,6 +1,6 @@
 # 康熙字典 Kangxi Dictionary TXT
-Latest version description: https://github.com/7468696e6b/kangxiDictText/blob/master/README.md#v3f
-Download latest version: https://raw.githubusercontent.com/7468696e6b/kangxiDictText/master/kangxizidian-v3f.txt
+* Latest version description: https://github.com/7468696e6b/kangxiDictText/blob/master/README.md#v3f
+* Download latest version: https://raw.githubusercontent.com/7468696e6b/kangxiDictText/master/kangxizidian-v3f.txt
 
 ## html
 Converted file with HTML/XML tags intact. Can try to import to keep formatting. Later versions of Pleco remove HTML support - see https://plecoforums.com/threads/a-dictionary-of-colors.5184/#post-45628.
