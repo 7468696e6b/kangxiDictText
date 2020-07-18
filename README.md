@@ -1,6 +1,13 @@
 # 康熙字典 Kangxi Dictionary TXT
-* Latest version description: https://github.com/7468696e6b/kangxiDictText/blob/master/README.md#v3f
-* Download latest version: https://raw.githubusercontent.com/7468696e6b/kangxiDictText/master/kangxizidian-v3f.txt
+
+《康熙字典》，為清帝康熙年代之作。此 UTF-8 TXT 版本可利君學習漢字。看官可由Pleco軟件或其他研究及學習方面用此文件。
+《大學》曰：「大學之道，在明明德，在親民，在止於至善」。以學認道，以道治人間，認自心意，行德，為學業之程。
+
+Herein is presented the Kangxi Dictionary (康熙字典), a work from the era of the Qing dynasty Kangxi emperor. It utilizes UTF-8 formatting in a TXT file. It is suitable to be used in Pleco or other software. 
+As is written in *The Great Learning* (大學): "The way of the great learning, is in the propagation of virtue, is in the amity of the common people, is in the bountifulness of the good". Let us be guided by learning to the way, to understand the common weal of humanity, starting from the recognition of one's own heartfelt intentions, such is the great craft of learning.
+
+* Latest version description (最新版本解釋): https://github.com/7468696e6b/kangxiDictText/blob/master/README.md#v3f
+* Download latest version (下載最新版本): https://raw.githubusercontent.com/7468696e6b/kangxiDictText/master/kangxizidian-v3f.txt
 
 ## html
 Converted file with HTML/XML tags intact. Can try to import to keep formatting. Later versions of Pleco remove HTML support - see https://plecoforums.com/threads/a-dictionary-of-colors.5184/#post-45628.
