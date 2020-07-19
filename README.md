@@ -29,6 +29,9 @@ As written in the preface of the Kangxi dictionary (using some of James Legge's 
 > The *I Ching* states: "In the highest antiquity, government was carried on successfully by the use of knotted cords (to preserve the memory of things). In subsequent ages the sages substituted for these written characters and bonds. By means of these (the doings of) all the officers could be regulated, and (the affairs of) all the people accurately examined. The idea of this was taken, probably, from Guai (the forty-third hexagram). Therefore what we call the Yi is (a collection of) emblematic lines. They are styled emblematic as being resemblances. What we call the Tuan (or king Wen's explanations) are based on the significance (of each hexagram as a whole). We call the lines (of the figures) Yao from their being according to the movements taking place all under the sky. In this way (we see) the rise of good fortune and evil, and the manifestation of repentance and regret."
 > Ancient texts were written in seal script and clerical script, until the work of Xu \[Shen\] of Han \[dynasty\] in *Shouwen Jiezi*, emphasizing meaning but neglecting pronunciation, therefore, people knew the characters but not the consonants \[and vowels\]. The Confucians in Jiangzuo knew the four tones but did not know the seven sounds. The title of the voice of seven was from the Western Regions, with 36 characters as the mother, from four tones to seven tones, and then the voice of the world was edited. Once we investigated the voice of five people in Guanzi, Because of the depth and width of each image, there must be some deviation in the five tones, so there are too few people who can complete seven tones. This is the reason why the people who take notes from generation to generation can not be uniform.-->
 
+Converted Kangxi dictionary (康熙字典) from https://simonwiles.net/projects/kangxi-zidian/ (original work licensed as Creative Commons CC).
+* Stardict dictionary format direct download link: https://simonwiles.net/files/kangxi-zidian/stardict-kangxizidian.tar.bz2, mirror: https://github.com/7468696e6b/kangxiDictText/blob/master/stardict/stardict-kangxizidian.tar.bz2
+
 ### Font notice 字體建議
 推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 Hanazono 或 BabelStone Han 。這樣可顯示《康熙字典》間所有字。
 
@@ -39,6 +42,7 @@ It is recommended that you download a font that supports Unicode CJK extensions,
 
 ## html
 Converted file with HTML/XML tags intact. Can try to import to keep formatting. Later versions of Pleco remove HTML support - see https://plecoforums.com/threads/a-dictionary-of-colors.5184/#post-45628.
+Used https://code.google.com/archive/p/aisnote/downloads CvtStarDict2Txt.
 
 ~~Download link (下載) : https://github.com/7468696e6b/kangxiDictText/blob/master/archive/kangxizidian_html.txt~~
 
@@ -53,9 +57,7 @@ Corrected line 11791, see v3f notes below
 Download link (下載) : https://github.com/7468696e6b/kangxiDictText/blob/master/archive/kangxizidian_html-v2.txt
 
 ## v1
-Converted Kangxi dictionary (康熙字典) from https://simonwiles.net/projects/kangxi-zidian/.
 
-Used https://code.google.com/archive/p/aisnote/downloads CvtStarDict2Txt.
 XML tags removed. For use with apps such as https://www.pleco.com.
 For Pleco use you may need to purchase the Flashcard bundle addon.
 https://www.plecoforums.com/threads/converting-stardict-dictionaries-to-pleco-format.2614/
