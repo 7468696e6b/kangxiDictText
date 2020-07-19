@@ -30,7 +30,7 @@ As written in the preface of the Kangxi dictionary (using some of James Legge's 
 > Ancient texts were written in seal script and clerical script, until the work of Xu \[Shen\] of Han \[dynasty\] in *Shouwen Jiezi*, emphasizing meaning but neglecting pronunciation, therefore, people knew the characters but not the consonants \[and vowels\]. The Confucians in Jiangzuo knew the four tones but did not know the seven sounds. The title of the voice of seven was from the Western Regions, with 36 characters as the mother, from four tones to seven tones, and then the voice of the world was edited. Once we investigated the voice of five people in Guanzi, Because of the depth and width of each image, there must be some deviation in the five tones, so there are too few people who can complete seven tones. This is the reason why the people who take notes from generation to generation can not be uniform.-->
 
 ### Font notice 字體建議
-推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 http://fonts.jp/hanazono/ 或 https://babelstone.co.uk/Fonts/Han.html 。這樣可識所有康熙字典字。
+推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 http://fonts.jp/hanazono/ （Hanazono）或 https://babelstone.co.uk/Fonts/Han.html （Babelstone Han）。這樣可識所有康熙字典字。
 
 It is recommended that you download a font that supports Unicode CJK extensions, such as Hanazono or Babelstone Han. This ensures that all of the characters in the *Kangxi dictionary* may be viewed.
 
@@ -109,5 +109,6 @@ Corrected formatting error at Line 11791 (歹), now reads:
 ```
 歹		《康熙字典》〈辰集下〉【歹字部】頁578第15    〔古文〕：𡰮。同𣦵，俗省。本作𣦵，隷作歺。【俗書正誤】歹，音遏。【長箋】今誤讀等在切，爲好字之反。𣦵字原从卜从冂作。
 ```
-
 Download link (下載) : https://github.com/7468696e6b/kangxiDictText/blob/master/kangxizidian-v3f.txt
+
+
