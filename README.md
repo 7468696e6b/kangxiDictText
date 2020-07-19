@@ -30,9 +30,12 @@ As written in the preface of the Kangxi dictionary (using some of James Legge's 
 > Ancient texts were written in seal script and clerical script, until the work of Xu \[Shen\] of Han \[dynasty\] in *Shouwen Jiezi*, emphasizing meaning but neglecting pronunciation, therefore, people knew the characters but not the consonants \[and vowels\]. The Confucians in Jiangzuo knew the four tones but did not know the seven sounds. The title of the voice of seven was from the Western Regions, with 36 characters as the mother, from four tones to seven tones, and then the voice of the world was edited. Once we investigated the voice of five people in Guanzi, Because of the depth and width of each image, there must be some deviation in the five tones, so there are too few people who can complete seven tones. This is the reason why the people who take notes from generation to generation can not be uniform.-->
 
 ### Font notice 字體建議
-推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 http://fonts.jp/hanazono/ （Hanazono）或 https://babelstone.co.uk/Fonts/Han.html （Babelstone Han）。這樣可識所有康熙字典字。
+推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 Hanazono 或 BabelStone Han 。這樣可顯示《康熙字典》間所有字。
 
-It is recommended that you download a font that supports Unicode CJK extensions, such as Hanazono or Babelstone Han. This ensures that all of the characters in the *Kangxi dictionary* may be viewed.
+It is recommended that you download a font that supports Unicode CJK extensions, such as Hanazono or BabelStone Han. This ensures that all of the characters in the *Kangxi dictionary* may be viewed.
+
+* Hanazono: http://fonts.jp/hanazono/ (direct download: https://osdn.net/dl/hanazono-font/hanazono-20170904.zip), install both HanaMinA and HanaMinB
+* BabelStone Han: https://babelstone.co.uk/Fonts/Han.html (recommended download is BabelStone Han Plain, direct download: https://babelstone.co.uk/Fonts/Download/BabelStoneHanPlain.zip)
 
 ## html
 Converted file with HTML/XML tags intact. Can try to import to keep formatting. Later versions of Pleco remove HTML support - see https://plecoforums.com/threads/a-dictionary-of-colors.5184/#post-45628.
