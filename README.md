@@ -32,6 +32,11 @@ As written in the preface of the Kangxi dictionary (using some of James Legge's 
 Converted Kangxi dictionary (康熙字典) from https://simonwiles.net/projects/kangxi-zidian/ (original work licensed as Creative Commons CC).
 * Stardict dictionary format direct download link: https://simonwiles.net/files/kangxi-zidian/stardict-kangxizidian.tar.bz2, mirror: https://github.com/7468696e6b/kangxiDictText/blob/master/stardict/stardict-kangxizidian.tar.bz2
 
+### Instructions for use
+To import the TXT file as a dictionary in [Pleco](https://www.pleco.com/): after having purchased the [Flashcard add-on](https://iphone.pleco.com/manual/30200/flash.html), import the file as a user dictionary on [iOS](https://iphone.pleco.com/manual/30200/dict.html#userdictionaries) or [Android](https://android.pleco.com/manual/310/dict.html#userdictionaries).
+
+To use the Stardict file: one method is to use [GoldenDict](https://github.com/goldendict/goldendict/wiki).
+
 ### Font notice 字體建議
 推薦下載支持中日韓統一表意文字擴充區（Unicode CJK extensions）字體，如 Hanazono 或 BabelStone Han 。這樣可顯示《康熙字典》間所有字。
 
